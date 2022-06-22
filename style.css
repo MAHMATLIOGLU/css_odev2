@@ -1,0 +1,100 @@
+#logo{
+    text-align: center;
+    margin-top: 80px;
+}
+.box1{
+    background-color:#eee;
+    width: 1400px;
+    height: 120px;
+    margin: auto;
+}
+.text{
+    text-align: center;
+    font-size: large;
+}
+.input{
+    width: 320px;
+    height: 20px;
+    display: block;
+    margin: auto;
+    border-top: 2px black solid;
+    border-left: 2px black solid;
+    border-right: 2px rgb(230, 228, 228) solid;
+    border-bottom: 2px rgb(230, 228, 228) solid;
+}
+.button{
+    text-decoration:none;
+    color: black;
+    background-color:#c0c0c0;
+    padding: 5px 15px;
+    display: inline-block;
+    box-shadow: 1.5px 1.5px 1.5px;
+    margin-left: 560px;
+    margin-right: -550px;
+    margin-top: 5px;
+    border-top: 2.5px #f1f3f5 solid;
+    border-left: 2.5px  #f1f3f5 solid;
+    
+}
+.conteiner{
+    float: left;
+}
+.box2{
+background-color: #7ee5da;
+display: block;
+width:450px;
+height: 120px;
+margin-left: 60px;
+margin-top: 5px;
+   
+}
+.menu{
+    list-style:none;
+}
+.box3{
+    background-color: #70ccc2;
+    display: block;
+    width: 350px;;
+    height: 120px;
+    margin-left: 5px; 
+    margin-top: 5px;
+}
+.box4{
+    background-color: #62b3aa;
+    display: block;
+    width: 590px;
+    height: 120px;
+    margin-left: 5px; 
+    margin-top: 5px;
+    text-align:center;
+    
+    
+}
+.array{
+    float: left;
+}
+.input2{
+    display: block;
+    margin: auto;
+    border-bottom: 2px rgb(209, 206, 206) solid;
+    border-right: 2px rgb(209, 206, 206) solid;
+
+}
+.button2{
+    text-decoration:none;
+    color: black;
+    background-color:#c0c0c0;
+    padding: 5px 15px;
+    display: inline-block;
+    box-shadow: 1.5px 1.5px 1.5px;
+    margin-top: 5px; 
+    border-top: 2px #eaecee solid;
+    border-left: 2px  #eaecee solid;
+    margin-right: 5px;
+}
+.end{
+    text-align: center;
+    margin-top: 150px;
+    color: #4e4c4c;
+}
+
